@@ -1,0 +1,3 @@
+rootProject.name='RentMyRide'
+include ':app'
+include ':volley'
